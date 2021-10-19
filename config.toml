@@ -1,4 +1,4 @@
-baseurl = "https://n1n9-jp.github.io/hugo-portfolio.com/"
+baseurl = "https://elated-sinoussi-0436e5.netlify.app/"
 title = "Creative portfolio テスト"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja-jp"
