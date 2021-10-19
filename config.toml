@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-title = "Creative portfolio"
+baseurl = "https://n1n9-jp.github.io/hugo-portfolio.com/"
+title = "Creative portfolio テスト"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja-jp"
 # Enable comments by entering your Disqus shortname
@@ -41,7 +41,7 @@ publishDir = "docs"
       #  # Optional integrity check hash
       #  hash = ""
   canonifyurls = true
-  
+
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
